@@ -1,7 +1,15 @@
-## Hello World!
+<html>
+  <head>
+    <title>My HomepageM</title>
+  </head>
+  
+  <body>
+    <h1>My homepage!</h1>
+    
+    <h2>
+      ;)
+    </h2>
+    
+  </body>
 
-This is my first try at github's pages!.
-
-Soon you could see my customized page at:
-
-http://gcooled.github.io/
+</html>
