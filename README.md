@@ -1,15 +1,13 @@
 <html>
   <head>
-    <title>My HomepageM</title>
+    <title>My Homepage!</title>
   </head>
   
   <body>
     <h1>My homepage!</h1>
-    
     <h2>
       ;)
     </h2>
-    
   </body>
 
 </html>
